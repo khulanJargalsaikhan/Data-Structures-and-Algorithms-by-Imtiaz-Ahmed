@@ -9,6 +9,10 @@ Topics include:
   - Recursive Linear Search
   - Singly Linked List
   - Sorting Algorithms
+    - Quick Sort
+    - Insertion Sort
+    - Selection Sort
+    - Merge Sort
 
 
 
