@@ -48,6 +48,7 @@ public class QuickSort {
 		for(int j=start; j <= end-1; j++) {  // j --> starts with index 0
 			if(inputArray[j] <= pivot) {
 				i++;
+				// swaping process
 				int temp = inputArray[i];
 				inputArray[i] = inputArray[j];
 				inputArray[j] = temp;
@@ -55,6 +56,7 @@ public class QuickSort {
 				
 		}
 		
+		//put the pivot value in the correct slot next
 		int temp = inputArray[i+1];
 		inputArray[i+1] = inputArray[end];
 		inputArray[end] = temp;
