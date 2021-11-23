@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms-by-Imtiaz-Ahmed
+# Data-Structures-and-Algorithms
 
 Topics include: 
   - Binary Search
@@ -13,6 +13,8 @@ Topics include:
     - Insertion Sort
     - Selection Sort
     - Merge Sort
+  - Binary Search Trees
+  - Stack
 
 
 
