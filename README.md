@@ -15,6 +15,7 @@ Topics include:
     - Merge Sort
   - Binary Search Trees
   - Stack
+  - Queue
 
 
 
