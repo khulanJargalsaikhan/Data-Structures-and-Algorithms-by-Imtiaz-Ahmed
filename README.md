@@ -16,6 +16,7 @@ Topics include:
   - Binary Search Trees
   - Stack
   - Queue
+  - Heap
 
 
 
