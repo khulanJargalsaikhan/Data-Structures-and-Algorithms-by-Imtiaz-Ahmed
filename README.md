@@ -14,9 +14,11 @@ Topics include:
     - Selection Sort
     - Merge Sort
   - Binary Search Trees
-  - Stack
-  - Queue
-  - Heap
+  - Stack ds (array is used for base container) 
+  - Queue ds (array is used for base container) 
+  - Heap ds
+  - Hash Tables ds (array is used for base container) 
+  - Graph ds (array and singly linked list used for base container)
 
 
 
